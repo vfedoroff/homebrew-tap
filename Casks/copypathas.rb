@@ -7,7 +7,7 @@ cask "copypathas" do
   desc "Finder extension to copy paths of selected files and folders"
   homepage "https://github.com/vfedoroff/copypathas"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "CopyPathAs.app"
 
