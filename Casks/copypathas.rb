@@ -1,6 +1,6 @@
 cask "copypathas" do
-  version "0.2.0"
-  sha256 "17b06f76605c96efb5a5d15bf29c66e9637421a9a60946ae6c8d08ececee09d6"
+  version "0.3.0"
+  sha256 "07d301056095f876977eed8556a29308699782e302db066876028bc43e381185"
 
   url "https://github.com/vfedoroff/copypathas/releases/download/v#{version}/CopyPathAs.dmg"
   name "Copy Path As"
